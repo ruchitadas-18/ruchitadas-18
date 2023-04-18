@@ -1,5 +1,3 @@
-
-
 Hi 👋 My name is Ruchita Das
 ============================
 
@@ -41,11 +39,3 @@ I'm in my final year of a Btech programme in computer science with a focus on Cy
 <a href="http://www.github.com/ruchitadas-18"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ruchitadas-18&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/ruchitadas-18" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchitadas-18&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/ruchitadas-18/https://github.com/ruchitadas-18/AccidentRecovery" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ruchitadas-18&repo=https://github.com/ruchitadas-18/AccidentRecovery&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ruchitadas-18/https://github.com/ruchitadas-18/knowYourLocality" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ruchitadas-18&repo=https://github.com/ruchitadas-18/knowYourLocality&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/ruchitadas-18/https://github.com/ruchitadas-18/Hack-the-Terminal" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ruchitadas-18&repo=https://github.com/ruchitadas-18/Hack-the-Terminal&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
