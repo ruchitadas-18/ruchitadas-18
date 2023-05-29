@@ -1,4 +1,4 @@
-Hi 👋 My name is Ruchita Das
+Hi My name is Ruchita Das
 ============================
 
 Android developer | Ux UI developer | Cyber Enthusiastic
