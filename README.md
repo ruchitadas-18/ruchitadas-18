@@ -31,13 +31,6 @@ I'm in my final year of a Btech programme in computer science with a focus on Cy
 ### Badges
 
 <b>My GitHub Stats</b>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ruchitadas-18&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchitadas-18&theme=navyblue-blue)
-
-
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=ruchitadas-18)
 
 
 
