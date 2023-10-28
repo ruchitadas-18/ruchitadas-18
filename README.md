@@ -1,7 +1,7 @@
 Hi My name is Ruchita Das
 ============================
 
-Android developer | Ux UI developer | Cyber Enthusiastic
+Ux UI developer | Cyber Enthusiastic
 --------------------------------------------------------
 
 I'm in my final year of a Btech programme in computer science with a focus on Cyber Security and Digital Forensic. My interests also include writing articles and drawing anime. Despite the fact that I am a cyber student, I have a preference for development. I am trilingual speaker namely Hindi, English, and Bengali.
