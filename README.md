@@ -8,7 +8,7 @@ I'm in my final year of a Btech programme in computer science with a focus on Cy
 
 * 🌍  I'm based in Jaipur, Rajasthan
 * ✉️  You can contact me at [ruchitadas012@gmail.com](mailto:ruchitadas012@gmail.com)
-* 🧠  I'm learning various UX/UI techniques and cloud environment.
+* 🧠  I'm learning various UX/UI and testing techniques.
 * 🤝  I'm open to collaborating on related to cloud, healthcare and cyber domain
 * ⚡  I'm secret artist as well as story writer but don't tell it anyone.... our little secret
 
