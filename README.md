@@ -1,5 +1,5 @@
 # Hi, I'm Ruchita Das 👋  
-### *Automation Developer | Cybersecurity Enthusiast | Quality Analyst / Manual Testing*
+### *Automation Developer | Cybersecurity Enthusiast | Quality Analyst*
 
 ---
 
